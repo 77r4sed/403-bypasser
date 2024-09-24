@@ -11,7 +11,7 @@ import threading
 from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urlparse
 
-# Custom logging handler with color
+
 class ColoredFormatter(logging.Formatter):
     def format(self, record):
         level_colors = {
@@ -40,7 +40,7 @@ def setup_logger(log_file):
 
 logger = setup_logger("bypass_log.txt")
 
-# Display the banner
+# banner
 def display_banner():
     banner_text = pyfiglet.figlet_format("403 Bypasser")
     print(colored(banner_text, "cyan"))
